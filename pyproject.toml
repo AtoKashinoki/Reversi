@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "Reversi"
 version = "0.0.0"
-description = "<DESCRIPTION>"
+description = "This module contain reversi game processes."
 
 readme = "README.md"
 license = {file="LICENSE"}
