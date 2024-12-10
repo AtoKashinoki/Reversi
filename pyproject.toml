@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=60.2.0"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "Reversi"
+version = "0.0.0"
+description = "<DESCRIPTION>"
+
+readme = "README.md"
+license = {file="LICENSE"}
+
+requires-python = ">=3.12"
+dependencies = [
+]
+
+authors = [
+   {name="AtoKashinoki", email="atokashinoki@gmail.com"}
+]
+classifiers = [
+   "Programming Language :: Python :: Python3.12",
+   "License :: OSI Approved :: MITLicense",
+   "Operating System :: Microsoft :: Windows :: Windows11"
+]
+
+
+[project.urls]
+"Homepage" = "https://github.com/AtoKashinoki/Reversi.git"
+"Bug Tracker" = "https://github.com/AtoKashinoki/Reversi/issues"
+
+
+[project.scripts]
